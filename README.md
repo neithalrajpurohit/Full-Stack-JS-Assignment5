@@ -5,16 +5,14 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Assignment 5 [Live Link]()
+## Assignment 5 [Live Link](https://jsproject-05.netlify.app/)
 
--   Skills Gained during this assignment
-    -   Learnt to use absolute  position property frequently.
-    -   Learned to create vertical line on navbar .
+- Skills Gained during this assignment
+  - Learnt to use absolute position property frequently.
+  - Learned to create vertical line on navbar .
 
 ---
 
 ## Time taken to finish this project
 
--  Took 1 hour to complete.
-
-
+- Took 1 hour to complete.
